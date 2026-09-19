@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 1,
-  "as_of": "2026-09-19T01:24:42Z",
+  "as_of": "2026-09-19T03:24:44Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -10,31 +10,31 @@
     "liquidation": 60800.0,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "SOL": {
-    "trap": 102.3,
-    "protection": 85.9,
-    "liquidation": 81.8,
+    "trap": 111.89,
+    "protection": 93.99,
+    "liquidation": 89.51,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "SUI": {
-    "trap": 0.7787,
-    "protection": 0.6541,
-    "liquidation": 0.623,
+    "trap": 0.8151,
+    "protection": 0.6847,
+    "liquidation": 0.6521,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "TSLA": {
     "trap": 361.32,
     "protection": 303.5,
-    "liquidation": 297.95615539460294,
+    "liquidation": 297.95916369536747,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "NVDA": {
     "trap": 214.0,
@@ -42,7 +42,7 @@
     "liquidation": 171.2,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "SPCX": {
     "trap": 148.0,
@@ -50,39 +50,39 @@
     "liquidation": 118.4,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "SKHYNIXUSD": {
     "trap": 1341.0,
     "protection": 1167.0,
-    "liquidation": 1159.8071658775882,
+    "liquidation": 1159.6000584678568,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "HYPE": {
-    "trap": 83.63,
-    "protection": 70.25,
-    "liquidation": 66.9,
+    "trap": 92.2,
+    "protection": 77.45,
+    "liquidation": 73.76,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "WIF": {
-    "trap": 0.1969,
-    "protection": 0.1654,
-    "liquidation": 0.1575,
+    "trap": 0.2086,
+    "protection": 0.1752,
+    "liquidation": 0.1669,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "ZEC": {
-    "trap": 1414.0,
-    "protection": 1188.0,
-    "liquidation": 1131.0,
+    "trap": 1527.9,
+    "protection": 1283.4,
+    "liquidation": 1222.3,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "SNDK": {
     "trap": 1445.0,
@@ -90,15 +90,15 @@
     "liquidation": 1156.0,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "MRVL": {
     "trap": 240.35,
     "protection": 206.5,
-    "liquidation": 204.46336299694906,
+    "liquidation": 204.46104336424472,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "SAMSUNGUSD": {
     "trap": 195.7,
@@ -106,7 +106,7 @@
     "liquidation": 167.9092284631719,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "MU": {
     "trap": 989.0,
@@ -114,15 +114,15 @@
     "liquidation": 791.2,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "LIT": {
-    "trap": 4.99,
-    "protection": 4.46,
-    "liquidation": 4.419226438033024,
+    "trap": 4.925,
+    "protection": 4.137,
+    "liquidation": 3.94,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "ETH": {
     "trap": 2505.0,
@@ -130,15 +130,15 @@
     "liquidation": 2043.6329693800558,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "DOGE": {
     "trap": 0.088,
     "protection": 0.0757,
-    "liquidation": 0.073631156523194,
+    "liquidation": 0.07363336037865056,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "GRAM": {
     "trap": 1.3,
@@ -146,15 +146,15 @@
     "liquidation": 1.04,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "HOOD": {
-    "trap": 110.4,
-    "protection": 92.7,
-    "liquidation": 88.3,
+    "trap": 118.53,
+    "protection": 99.57,
+    "liquidation": 94.82,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "ARB": {
     "trap": 0.1785,
@@ -162,15 +162,15 @@
     "liquidation": 0.11308674237256762,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "PUMP": {
-    "trap": 0.0042,
-    "protection": 0.0036,
-    "liquidation": 0.003581330502427248,
+    "trap": 0.0042311,
+    "protection": 0.0035541,
+    "liquidation": 0.0033849,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "XAG": {
     "trap": 65.47,
@@ -178,17 +178,17 @@
     "liquidation": 52.37,
     "side": "LONG",
     "class": "commodity",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    },
    "NEAR": {
-    "trap": 3.42,
-    "protection": 2.87,
-    "liquidation": 2.74,
+    "trap": 3.762,
+    "protection": 3.16,
+    "liquidation": 3.01,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-09-19T01:24:42Z"
+    "as_of": "2026-09-19T03:24:44Z"
    }
   }
  },
- "sig": "9q28pNcfDVa9HZS1Yso3rp9mhQb7jKgrPHHutfDfQEJpUKuZrkHEi7Cc_4ZRCfpZnoMhKKBAIjMil90Hh9-lDQ"
+ "sig": "ETLcmS_y0Hi5s_iwgxSW5gvKqHEpIyi-7azUPiAm4kv1VKD1HEL1LPi0BwiXfRCLIoDWDiQIIJv_5TvyFXqBBg"
 }
