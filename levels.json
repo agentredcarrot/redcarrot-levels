@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-24T19:24:43Z",
+  "as_of": "2026-10-24T21:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -124,14 +124,6 @@
     "class": "unknown",
     "as_of": "2026-10-24T19:06:32Z"
    },
-   "AAVE": {
-    "trap": 138.31,
-    "protection": 116.18,
-    "liquidation": 110.65,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-10-24T11:04:58Z"
-   },
    "VVV": {
     "trap": 23.9,
     "protection": 18.821,
@@ -151,5 +143,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "7qGOpQrSEViWg5H0Mz2Eh39PvbcWjuXQdTLw6TfGdv2dp75GFu79QOH9ZnwS8hABa4FIeWJiQfMy_K2HUhP-Bg"
+ "sig": "lvqML1XRP-Kvr2MgcU9_s4pgP7H9fwonuw3_qzHqidixy0B4FfpCaffOez0xzAS2HzJ4VeqqABGSTO4d9xgnDw"
 }
