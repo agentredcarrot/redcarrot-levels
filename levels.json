@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-25T23:24:43Z",
+  "as_of": "2026-10-26T01:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -68,9 +68,9 @@
     "as_of": "2026-10-25T19:07:41Z"
    },
    "LIT": {
-    "trap": 3.1383,
-    "protection": 2.47,
-    "liquidation": 2.35,
+    "trap": 3.02,
+    "protection": 2.38,
+    "liquidation": 2.27,
     "side": "LONG",
     "class": "crypto"
    },
@@ -141,5 +141,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "krsgOAB7lj5-THpGzcFUuMVkHskjtDbZvgF8AtwRujvS6F_0A4lNHVDdIcqzucrVoJdaQp1ChVUTyHgbkY9jAQ"
+ "sig": "a0RomNWv-VLHO9dEYeXEnfs_2L7mLGs-jUT5OmuU9PyjWwOTw61QTreU6JBjFZkHB5wEl4QWcVq6DBpq-_BUDA"
 }
