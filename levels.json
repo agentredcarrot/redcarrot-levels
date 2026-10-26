@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-26T13:24:43Z",
+  "as_of": "2026-10-26T15:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -21,9 +21,9 @@
     "as_of": "2026-10-26T11:03:01Z"
    },
    "TSLA": {
-    "trap": 368.2,
-    "protection": 290.0,
-    "liquidation": 276.1,
+    "trap": 369.2,
+    "protection": 290.7,
+    "liquidation": 276.9,
     "side": "LONG",
     "class": "equity"
    },
@@ -36,12 +36,11 @@
     "as_of": "2026-10-26T11:03:01Z"
    },
    "SKHYNIXUSD": {
-    "trap": 957.75,
-    "protection": 804.51,
-    "liquidation": 766.2,
+    "trap": 965.33,
+    "protection": 835.1,
+    "liquidation": 827.9516914482872,
     "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-10-26T11:03:01Z"
+    "class": "equity"
    },
    "HYPE": {
     "trap": 75.246,
@@ -149,5 +148,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "gT7MiLkoacfVZFVttbFzhXlcizJzgPAR4l9YdI7btz2ZCNGV4EmR5dTDQvRvw-4HyqGd_jt79SK23xyyJjgABw"
+ "sig": "RVpUs4EqjZA9XEE6218-uI1nV9FeJPjoicQLzyF9j4C-tkUU7pKcHTglosa0YRFMArSjVilf2cjiNbDgYVMgAg"
 }
