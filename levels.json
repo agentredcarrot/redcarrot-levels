@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-26T11:24:43Z",
+  "as_of": "2026-10-26T13:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -149,5 +149,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "YFeFbh_Av043w2gMdUI5wNNgVEuCuRl3TFK1Q-J3IyT5hof8MyLdJO6EU4oL5Az4vt85iV-eSut-edys59LiAg"
+ "sig": "gT7MiLkoacfVZFVttbFzhXlcizJzgPAR4l9YdI7btz2ZCNGV4EmR5dTDQvRvw-4HyqGd_jt79SK23xyyJjgABw"
 }
