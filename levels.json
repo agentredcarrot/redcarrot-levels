@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-26T23:24:43Z",
+  "as_of": "2026-10-27T01:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -36,9 +36,9 @@
     "as_of": "2026-10-26T19:08:46Z"
    },
    "SKHYNIXUSD": {
-    "trap": 957.75,
-    "protection": 804.51,
-    "liquidation": 766.2,
+    "trap": 928.0,
+    "protection": 779.5,
+    "liquidation": 742.4,
     "side": "LONG",
     "class": "equity"
    },
@@ -141,5 +141,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "_h76zyf0Q5T5X_sHluA26VUcNxc--aSti8XJj2PABLxwoqvqCYu8FF6XeS3971UtP5If1AYCQTHNc1Pnh-RdCg"
+ "sig": "fF0IC6BiZOPTvOP9W01LsBT1Ud0DkMdT2pK8-Gzvpf0gC54j4Fxy-fZnCgSS8BVh4ErydARTbNj3el_aaFD6CQ"
 }
