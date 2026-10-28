@@ -1,38 +1,15 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-28T13:24:43Z",
+  "as_of": "2026-10-28T15:24:43Z",
   "interval_hours": 12,
   "levels": {
-   "SOL": {
-    "trap": 101.31,
-    "protection": 85.1,
-    "liquidation": 81.048,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-10-28T11:04:41Z"
-   },
-   "SPCX": {
-    "trap": 146.54,
-    "protection": 123.09,
-    "liquidation": 117.23,
-    "side": "LONG",
-    "class": "equity"
-   },
    "SKHYNIXUSD": {
     "trap": 1013.0,
     "protection": 798.0,
     "liquidation": 760.0,
     "side": "LONG",
     "class": "equity"
-   },
-   "HYPE": {
-    "trap": 79.985,
-    "protection": 67.187,
-    "liquidation": 63.988,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-10-28T11:04:41Z"
    },
    "MRVL": {
     "trap": 245.91,
@@ -74,14 +51,6 @@
     "class": "unknown",
     "as_of": "2026-10-28T11:04:41Z"
    },
-   "AVAX": {
-    "trap": 8.8848,
-    "protection": 7.4632,
-    "liquidation": 7.1078,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-10-28T11:04:41Z"
-   },
    "VVV": {
     "trap": 24.057,
     "protection": 18.945,
@@ -101,5 +70,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "IiSLTIQUIJirqwF9y-q3uWizMdnzO8BEEsLt-MqI63QR5eKxXNdGPHTnkoJB-p_X0QichQpozhVuUFig1eHkDQ"
+ "sig": "iBg6D_j2FRe5EM2YGtNIWKfbuKea-4wUvVupnmYD2kP168EVS7bkum5bc4BJqTEGDjaQPahh4L3FCTjvr8gKAg"
 }
