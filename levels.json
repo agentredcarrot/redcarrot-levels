@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-30T03:24:42Z",
+  "as_of": "2026-10-30T05:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -22,8 +22,8 @@
    },
    "HYPE": {
     "trap": 89.018,
-    "protection": 70.102,
-    "liquidation": 66.764,
+    "protection": 70.1,
+    "liquidation": 66.76,
     "side": "LONG",
     "class": "crypto"
    },
@@ -48,8 +48,7 @@
     "protection": 2.1822,
     "liquidation": 2.0783,
     "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-10-30T03:05:38Z"
+    "class": "crypto"
    },
    "DOGE": {
     "trap": 0.072947,
@@ -63,14 +62,6 @@
     "trap": 0.0067075,
     "protection": 0.0052822,
     "liquidation": 0.0050306,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-10-30T03:05:38Z"
-   },
-   "AVAX": {
-    "trap": 8.0335,
-    "protection": 6.7481,
-    "liquidation": 6.4268,
     "side": "LONG",
     "class": "unknown",
     "as_of": "2026-10-30T03:05:38Z"
@@ -102,5 +93,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "RdTiYBz2ayeEif-zgFNlHFRfGLHvei2Er14kMMDoAeV3PGgXuCeVlhFymJyYDToMH5c3ifM1P8rUoEmloKAkBg"
+ "sig": "6De33CTddI_Vtb4643iPmjJuh0SrEAYbHWzTIDeOp8-jORYMfaBgr3NGmxRVyFjJ32UBN_DEhfY7_ii-kmIkDw"
 }
