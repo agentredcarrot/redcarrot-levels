@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-31T19:24:42Z",
+  "as_of": "2026-10-31T21:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -83,9 +83,9 @@
     "as_of": "2026-10-31T19:09:51Z"
    },
    "LIT": {
-    "trap": 2.97568,
-    "protection": 2.34335,
-    "liquidation": 2.23176,
+    "trap": 3.02,
+    "protection": 2.38,
+    "liquidation": 2.27,
     "side": "LONG",
     "class": "crypto"
    },
@@ -111,14 +111,6 @@
     "liquidation": 0.0031504,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-10-31T19:09:51Z"
-   },
-   "NEAR": {
-    "trap": 4.43749,
-    "protection": 3.49452,
-    "liquidation": 3.32812,
-    "side": "LONG",
-    "class": "unknown",
     "as_of": "2026-10-31T19:09:51Z"
    },
    "PENGU": {
@@ -156,5 +148,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "zUqBHUaMM_cZ1qsXGNCBjA9agsdSt6IFDVxWDePNXSNJtdf2j4HkJFJcT4Y4fMGSGXZ7PpJ3ZF4pbq0eSBC4AA"
+ "sig": "bMFABlLptyinh-3DgIlH1052AB_p2FIKpcGVPmtQckjts5j40cnIcVFyiyK8OMKPPdBMKcMgZ506uiU6AAQDBQ"
 }
