@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-10-31T21:24:42Z",
+  "as_of": "2026-10-31T23:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -57,14 +57,6 @@
     "liquidation": 0.1283,
     "side": "LONG",
     "class": "crypto"
-   },
-   "ZEC": {
-    "trap": 1261.09,
-    "protection": 993.108,
-    "liquidation": 945.817,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-10-31T19:09:51Z"
    },
    "MRVL": {
     "trap": 193.917,
@@ -148,5 +140,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "bMFABlLptyinh-3DgIlH1052AB_p2FIKpcGVPmtQckjts5j40cnIcVFyiyK8OMKPPdBMKcMgZ506uiU6AAQDBQ"
+ "sig": "ySXTMd_Oy1ibEzgbh6erxjw9sLd5XwQMWyZl-3ESNTufF2iDg2wo02oTRAVscHvVSBRoCKa4lKBLV5QZQb0sBQ"
 }
