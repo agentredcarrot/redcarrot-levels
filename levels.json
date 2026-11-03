@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-03T03:24:43Z",
+  "as_of": "2026-11-03T05:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -138,13 +138,6 @@
     "class": "unknown",
     "as_of": "2026-11-03T03:06:33Z"
    },
-   "XAG": {
-    "trap": 49.536,
-    "protection": 39.01,
-    "liquidation": 37.152,
-    "side": "LONG",
-    "class": "commodity"
-   },
    "GOOGL": {
     "trap": 276.2,
     "protection": 217.51,
@@ -156,5 +149,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "KrNdZTIa20Gmt7zmYLPwP9WL1wyv0Wlw_Kaqu_UPEWnv34DWpTc5PRyFohBRzn8ATLeTVM4h4gQTH4eoLFMrAA"
+ "sig": "7_TPdN2SFLmjc3ZlyBUlI6IMzxbs0xMsWDoRKqcZWDwXf0hHQ2TgGJrh1M7khIQUrsoRhMXMjz1DaHYZ32LLAg"
 }
