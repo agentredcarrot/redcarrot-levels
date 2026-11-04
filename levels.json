@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-04T13:24:43Z",
+  "as_of": "2026-11-04T15:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -20,10 +20,42 @@
     "class": "crypto",
     "as_of": "2026-11-04T11:04:53Z"
    },
+   "TSLA": {
+    "trap": 376.44,
+    "protection": 296.45,
+    "liquidation": 282.33,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-04T11:04:53Z"
+   },
+   "SPCX": {
+    "trap": 132.88,
+    "protection": 104.64,
+    "liquidation": 99.661,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-04T11:04:53Z"
+   },
+   "HYPE": {
+    "trap": 85.122,
+    "protection": 67.033,
+    "liquidation": 63.841,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-04T11:04:53Z"
+   },
    "WIF": {
     "trap": 0.17311,
     "protection": 0.13632,
     "liquidation": 0.12983,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-04T11:04:53Z"
+   },
+   "ZEC": {
+    "trap": 1291.72,
+    "protection": 1017.23,
+    "liquidation": 968.79,
     "side": "LONG",
     "class": "crypto",
     "as_of": "2026-11-04T11:04:53Z"
@@ -41,6 +73,30 @@
     "liquidation": 0.05556,
     "side": "LONG",
     "class": "crypto",
+    "as_of": "2026-11-04T11:04:53Z"
+   },
+   "HOOD": {
+    "trap": 84.929,
+    "protection": 66.882,
+    "liquidation": 63.697,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-04T11:04:53Z"
+   },
+   "NEAR": {
+    "trap": 4.034,
+    "protection": 3.176,
+    "liquidation": 3.025,
+    "side": "LONG",
+    "class": "unknown",
+    "as_of": "2026-11-04T11:04:53Z"
+   },
+   "PENGU": {
+    "trap": 0.00720331,
+    "protection": 0.0056726,
+    "liquidation": 0.00540248,
+    "side": "LONG",
+    "class": "unknown",
     "as_of": "2026-11-04T11:04:53Z"
    },
    "XAG": {
@@ -61,5 +117,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "stIDKBrIS6OSZvLMoLf1N0VW_59b_FJEdzQVSI2UydYr8FO6P18NAocTspq-lq0d5kXNLJEHYsgFFq3zz7a4BQ"
+ "sig": "vVHu0k5i60evHZvffGInk2yXWLAOZIjvSBJ5Uy3xZ-xvxj3Sfc8YiXVn0bPLcFrDZ5hPQz_3XSjla7f9SSIeBA"
 }
