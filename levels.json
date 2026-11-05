@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-05T11:24:43Z",
+  "as_of": "2026-11-05T13:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -24,22 +24,6 @@
     "trap": 372.409,
     "protection": 293.272,
     "liquidation": 279.307,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-05T11:06:18Z"
-   },
-   "SPCX": {
-    "trap": 132.793,
-    "protection": 104.574,
-    "liquidation": 99.5946,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-05T11:06:18Z"
-   },
-   "SKHYNIXUSD": {
-    "trap": 929.906,
-    "protection": 732.301,
-    "liquidation": 697.429,
     "side": "LONG",
     "class": "equity",
     "as_of": "2026-11-05T11:06:18Z"
@@ -68,59 +52,12 @@
     "class": "crypto",
     "as_of": "2026-11-05T11:06:18Z"
    },
-   "MRVL": {
-    "trap": 152.522,
-    "protection": 120.111,
-    "liquidation": 114.392,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-05T11:06:18Z"
-   },
-   "MU": {
-    "trap": 765.857,
-    "protection": 603.113,
-    "liquidation": 574.393,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-05T11:06:18Z"
-   },
-   "LIT": {
-    "trap": 3.39,
-    "protection": 2.67,
-    "liquidation": 2.54,
-    "side": "LONG",
-    "class": "crypto"
-   },
    "DOGE": {
     "trap": 0.0757426,
     "protection": 0.0596473,
     "liquidation": 0.0568069,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-05T11:06:18Z"
-   },
-   "HOOD": {
-    "trap": 85.7999,
-    "protection": 67.5674,
-    "liquidation": 64.3499,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-05T11:06:18Z"
-   },
-   "PUMP": {
-    "trap": 0.00423895,
-    "protection": 0.00333817,
-    "liquidation": 0.00317921,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-05T11:06:18Z"
-   },
-   "NEAR": {
-    "trap": 3.95986,
-    "protection": 3.11839,
-    "liquidation": 2.9699,
-    "side": "LONG",
-    "class": "unknown",
     "as_of": "2026-11-05T11:06:18Z"
    },
    "PENGU": {
@@ -157,5 +94,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "IWTVKcr_pUJDydKA1xMEq5w9IZz4S2RQiizXbfau5_jsn5LjHVjszz6FerTvAs2ANl-Fgq1rfj-WcODoXWqdCw"
+ "sig": "u5awxN_UB5_wdhHy5xQODbtFyeRQpOlnMhIdIZiqrCX_dGbOkEffTQu7nqJKkYfDT1PSdjqeIxICadEc_1fEAw"
 }
