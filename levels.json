@@ -1,18 +1,25 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-05T15:24:42Z",
+  "as_of": "2026-11-05T17:24:42Z",
   "interval_hours": 12,
   "levels": {
+   "SPCX": {
+    "trap": 120.6,
+    "protection": 95.0,
+    "liquidation": 90.4,
+    "side": "LONG",
+    "class": "equity"
+   },
    "LIT": {
-    "trap": 3.06,
-    "protection": 2.41,
-    "liquidation": 2.3,
+    "trap": 3.1,
+    "protection": 2.44,
+    "liquidation": 2.33,
     "side": "LONG",
     "class": "crypto"
    }
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "CDYvcrD3nlQ_pLawlbsr1rZzcdrRskVwMJmgoM3c7nXtoeyinn5Ialw_w3rertFXLltIeWzjCZ9-dImc1miKAg"
+ "sig": "bycYpZIHCFpWCqqLwYmniWgcehXVCvKoyI1muBRFLgxDKLZ8lsS2lFz6ecW7Ba8tTH9J2B1e0vkzgSkvv4LWCw"
 }
