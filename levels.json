@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-06T21:24:42Z",
+  "as_of": "2026-11-06T23:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -59,13 +59,6 @@
     "class": "crypto",
     "as_of": "2026-11-06T19:05:51Z"
    },
-   "ZEC": {
-    "trap": 1319.58,
-    "protection": 1039.0,
-    "liquidation": 990.0,
-    "side": "LONG",
-    "class": "crypto"
-   },
    "MRVL": {
     "trap": 136.358,
     "protection": 107.382,
@@ -93,14 +86,6 @@
     "trap": 0.0717902,
     "protection": 0.0565348,
     "liquidation": 0.0538427,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-06T19:05:51Z"
-   },
-   "PUMP": {
-    "trap": 0.00395379,
-    "protection": 0.00311361,
-    "liquidation": 0.00296534,
     "side": "LONG",
     "class": "crypto",
     "as_of": "2026-11-06T19:05:51Z"
@@ -140,5 +125,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "SJFqlhjtngEZHSZutS4wHtKHsBQvbnixnV4EU0ERrSFzmzjO50Rxqpe77cE5gsSmb-pd15Uk7i8w_4jZHMAtAg"
+ "sig": "BhhoMEDpVvM_zy8dQD9qxSAaUc8gJv7MAYLST_vx_8YWUE4dimtisGGmURrKxxrV8FZQjLN1MEg0k14LsaCdAw"
 }
