@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-06T19:24:42Z",
+  "as_of": "2026-11-06T21:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -30,8 +30,8 @@
    },
    "SPCX": {
     "trap": 130.98,
-    "protection": 103.147,
-    "liquidation": 98.2353,
+    "protection": 103.1,
+    "liquidation": 98.2,
     "side": "LONG",
     "class": "equity"
    },
@@ -61,8 +61,8 @@
    },
    "ZEC": {
     "trap": 1319.58,
-    "protection": 1039.17,
-    "liquidation": 989.684,
+    "protection": 1039.0,
+    "liquidation": 990.0,
     "side": "LONG",
     "class": "crypto"
    },
@@ -76,8 +76,8 @@
    },
    "MU": {
     "trap": 681.689,
-    "protection": 536.83,
-    "liquidation": 511.267,
+    "protection": 536.8,
+    "liquidation": 511.3,
     "side": "LONG",
     "class": "equity"
    },
@@ -113,13 +113,6 @@
     "class": "unknown",
     "as_of": "2026-11-06T19:05:51Z"
    },
-   "PENGU": {
-    "trap": 0.006556,
-    "protection": 0.0052,
-    "liquidation": 0.0049,
-    "side": "LONG",
-    "class": "unknown"
-   },
    "VVV": {
     "trap": 20.6982,
     "protection": 16.2999,
@@ -147,5 +140,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "QL8ei__FLRUf0rxoCpmNU6C126mLPcIYn7KQK1Qb6-x5zJpbvfpinS3VO77Og0HIRhiWyVIiTPioG4ZNRVmwCg"
+ "sig": "SJFqlhjtngEZHSZutS4wHtKHsBQvbnixnV4EU0ERrSFzmzjO50Rxqpe77cE5gsSmb-pd15Uk7i8w_4jZHMAtAg"
 }
