@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-06T23:24:43Z",
+  "as_of": "2026-11-07T01:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -29,9 +29,9 @@
     "as_of": "2026-11-06T19:05:51Z"
    },
    "SPCX": {
-    "trap": 130.98,
-    "protection": 103.1,
-    "liquidation": 98.2,
+    "trap": 134.7,
+    "protection": 106.1,
+    "liquidation": 101.0,
     "side": "LONG",
     "class": "equity"
    },
@@ -125,5 +125,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "BhhoMEDpVvM_zy8dQD9qxSAaUc8gJv7MAYLST_vx_8YWUE4dimtisGGmURrKxxrV8FZQjLN1MEg0k14LsaCdAw"
+ "sig": "AHUQfNTknqGb9luZ-ugq2G23MeWIRyo068WNKBSMeBgnEOG4oTODWarKKyi-MS1KyVEYHd7Y9zWJO-ZVcblECw"
 }
