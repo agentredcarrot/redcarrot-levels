@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-08T19:24:43Z",
+  "as_of": "2026-11-08T21:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -36,14 +36,6 @@
     "class": "equity",
     "as_of": "2026-11-08T19:05:38Z"
    },
-   "SKHYNIXUSD": {
-    "trap": 869.868,
-    "protection": 685.021,
-    "liquidation": 652.401,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-08T19:05:38Z"
-   },
    "HYPE": {
     "trap": 75.3118,
     "protection": 59.3081,
@@ -56,14 +48,6 @@
     "trap": 0.155623,
     "protection": 0.122553,
     "liquidation": 0.116717,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-08T19:05:38Z"
-   },
-   "ZEC": {
-    "trap": 1242.93,
-    "protection": 978.806,
-    "liquidation": 932.196,
     "side": "LONG",
     "class": "crypto",
     "as_of": "2026-11-08T19:05:38Z"
@@ -149,5 +133,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "P2USyr2NZ1ilhAqQHCk0NGfTrDEPvzjn4DUDPL66CjXKfaIr9XmldB03gmiAFG5dSpPFb3nBiYnP23S37x5MCQ"
+ "sig": "bIFwu3wX3i9viWXUyFGtSdxS512bxCtP8xBBaSZil_Zkge4PQIQrDlDWGW1uJhJI6CGHum98CoEJPgR_kpU2Bw"
 }
