@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-08T15:24:43Z",
+  "as_of": "2026-11-08T17:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -82,14 +82,6 @@
     "side": "LONG",
     "class": "equity"
    },
-   "LIT": {
-    "trap": 3.2111,
-    "protection": 2.5287,
-    "liquidation": 2.4083,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-08T11:02:43Z"
-   },
    "DOGE": {
     "trap": 0.069852,
     "protection": 0.055009,
@@ -104,14 +96,6 @@
     "liquidation": 0.00269607,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-08T11:02:43Z"
-   },
-   "NEAR": {
-    "trap": 3.6567,
-    "protection": 2.8796,
-    "liquidation": 2.7425,
-    "side": "LONG",
-    "class": "unknown",
     "as_of": "2026-11-08T11:02:43Z"
    },
    "PENGU": {
@@ -149,5 +133,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "kSelGjvVGQCRuLVJ9rQ_8QpjhcMJOlKPn8_l2rX_rEOz0MBCLVzpON_5yq8P_vO2i4Qxk5Plh8s_vwOwu5QPDQ"
+ "sig": "jqbpgs4o0oRDiJeDH9Fi643WStGxX-LvXAmcW7Lo7VF1oUrDqRQuxmaJJ2E8LL5FrjOwFlO2KxyfCXeJkH7ZAg"
 }
