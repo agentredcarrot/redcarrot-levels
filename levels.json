@@ -1,16 +1,16 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-09T17:24:43Z",
+  "as_of": "2026-11-09T19:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
-    "trap": 84.539,
-    "protection": 66.574,
-    "liquidation": 63.404,
+    "trap": 85.2261,
+    "protection": 67.1156,
+    "liquidation": 63.9196,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "SUI": {
     "trap": 0.80957,
@@ -20,12 +20,12 @@
     "class": "crypto"
    },
    "TSLA": {
-    "trap": 352.82,
-    "protection": 277.84,
-    "liquidation": 264.61,
+    "trap": 353.61,
+    "protection": 278.46,
+    "liquidation": 265.2,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "SPCX": {
     "trap": 133.65,
@@ -35,20 +35,20 @@
     "class": "equity"
    },
    "SKHYNIXUSD": {
-    "trap": 813.76,
-    "protection": 640.84,
-    "liquidation": 610.32,
+    "trap": 826.14,
+    "protection": 650.58,
+    "liquidation": 619.6,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "HYPE": {
-    "trap": 71.321,
-    "protection": 56.166,
-    "liquidation": 53.491,
+    "trap": 72.6493,
+    "protection": 57.2114,
+    "liquidation": 54.487,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "WIF": {
     "trap": 0.15211,
@@ -56,15 +56,15 @@
     "liquidation": 0.11408,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "ZEC": {
-    "trap": 1176.04,
-    "protection": 926.13,
-    "liquidation": 882.03,
+    "trap": 1153.26,
+    "protection": 908.19,
+    "liquidation": 864.94,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "MRVL": {
     "trap": 141.2,
@@ -86,7 +86,7 @@
     "liquidation": 2.2731,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "DOGE": {
     "trap": 0.06805,
@@ -94,7 +94,7 @@
     "liquidation": 0.05104,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "PUMP": {
     "trap": 0.003498,
@@ -102,15 +102,15 @@
     "liquidation": 0.002624,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "NEAR": {
-    "trap": 3.4318,
-    "protection": 2.7025,
-    "liquidation": 2.5739,
+    "trap": 3.4714,
+    "protection": 2.7337,
+    "liquidation": 2.6035,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "PENGU": {
     "trap": 0.006043,
@@ -118,34 +118,34 @@
     "liquidation": 0.004532,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "VVV": {
-    "trap": 20.104,
-    "protection": 15.832,
-    "liquidation": 15.078,
+    "trap": 19.7066,
+    "protection": 15.5189,
+    "liquidation": 14.78,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "XAG": {
-    "trap": 51.799,
-    "protection": 40.791,
-    "liquidation": 38.849,
+    "trap": 51.4511,
+    "protection": 40.5177,
+    "liquidation": 38.5883,
     "side": "LONG",
     "class": "commodity",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    },
    "GOOGL": {
-    "trap": 284.17,
-    "protection": 223.79,
-    "liquidation": 213.13,
+    "trap": 280.57,
+    "protection": 220.95,
+    "liquidation": 210.43,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-09T11:04:25Z"
+    "as_of": "2026-11-09T19:06:04Z"
    }
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "GUyk80lAAMf7GafSEeH7-EOXIoE2L9CQqP5N7rVkvAYIhxuFE4O8klhCuR4FW7kVGg_5HhduksuMnp5g-jCaDw"
+ "sig": "yX9OajLGg4Seb37wt7Wi4quNuJNvO2pHaen-i5XShV1mLV6Er6C3iv4A3xxctJIn1gM2pyQhbMnYYIGQlsDQAA"
 }
