@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-09T13:24:43Z",
+  "as_of": "2026-11-09T15:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -28,12 +28,11 @@
     "as_of": "2026-11-09T11:04:25Z"
    },
    "SPCX": {
-    "trap": 133.65,
-    "protection": 105.25,
-    "liquidation": 100.24,
+    "trap": 134.7,
+    "protection": 105.2,
+    "liquidation": 104.23044062999912,
     "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-09T11:04:25Z"
+    "class": "equity"
    },
    "SKHYNIXUSD": {
     "trap": 813.76,
@@ -68,9 +67,9 @@
     "as_of": "2026-11-09T11:04:25Z"
    },
    "MRVL": {
-    "trap": 137.18,
-    "protection": 108.03,
-    "liquidation": 102.88,
+    "trap": 136.6,
+    "protection": 107.6,
+    "liquidation": 102.5,
     "side": "LONG",
     "class": "equity"
    },
@@ -148,5 +147,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "E5SrIk_OjIyNrWfSCyiPIe4IlnYVJ3sUXAS5h0Kr4Tn2gkAH5s77Db7IfO58JFEfUFGmCXYRTI4vk0aHP-YwCA"
+ "sig": "36424gFna-eNapjzHbZXXMXk_fQDBkPPzeQAwaurq0yxoC4o5zmHJf81DoJxfv2ziaqNH5f_YMg3skLMdfK-BA"
 }
