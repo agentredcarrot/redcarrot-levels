@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-10T23:24:43Z",
+  "as_of": "2026-11-11T01:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -13,12 +13,11 @@
     "as_of": "2026-11-10T19:06:30Z"
    },
    "SUI": {
-    "trap": 0.80375015,
-    "protection": 0.67515013,
-    "liquidation": 0.64300012,
+    "trap": 0.80957,
+    "protection": 0.696,
+    "liquidation": 0.6891360224203504,
     "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-10T19:06:30Z"
+    "class": "crypto"
    },
    "TSLA": {
     "trap": 371.13,
@@ -29,12 +28,11 @@
     "as_of": "2026-11-10T19:06:30Z"
    },
    "SPCX": {
-    "trap": 138.39,
-    "protection": 108.98,
-    "liquidation": 103.79,
+    "trap": 140.6,
+    "protection": 109.8,
+    "liquidation": 108.72377113039697,
     "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-10T19:06:30Z"
+    "class": "equity"
    },
    "SKHYNIXUSD": {
     "trap": 860.37,
@@ -149,5 +147,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "c8z_pE5sZA1yiSCNl6GLQOSeQDOfJiFva-fxDtaOPtSQ6qWItepAc2dOJ-Wx2I-ujZyK7kjXN99VkDWf5s9EBw"
+ "sig": "aCOyvCO2bwa56Z-r5TNifmCk8lMN0tvJRz0hbyaDauxUSOzYKqN02hXN8kGpeBM9ujUrgqEPBGnA78yYFXeDCA"
 }
