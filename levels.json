@@ -1,16 +1,16 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-11T17:24:42Z",
+  "as_of": "2026-11-11T19:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
-    "trap": 82.4947,
-    "protection": 64.9646,
-    "liquidation": 61.8711,
+    "trap": 83.034,
+    "protection": 65.39,
+    "liquidation": 62.276,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "SUI": {
     "trap": 0.80375015,
@@ -20,12 +20,20 @@
     "class": "crypto"
    },
    "TSLA": {
-    "trap": 381.04,
-    "protection": 300.07,
-    "liquidation": 285.78,
+    "trap": 386.18,
+    "protection": 304.11,
+    "liquidation": 289.63,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
+   },
+   "SPCX": {
+    "trap": 139.74,
+    "protection": 110.05,
+    "liquidation": 104.81,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "SKHYNIXUSD": {
     "trap": 896.9,
@@ -35,28 +43,28 @@
     "class": "equity"
    },
    "HYPE": {
-    "trap": 70.8359,
-    "protection": 55.7832,
-    "liquidation": 53.1269,
+    "trap": 71.603,
+    "protection": 56.387,
+    "liquidation": 53.702,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "WIF": {
-    "trap": 0.153585,
-    "protection": 0.120948,
-    "liquidation": 0.115189,
+    "trap": 0.15407,
+    "protection": 0.12133,
+    "liquidation": 0.11555,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "ZEC": {
-    "trap": 968.14,
-    "protection": 762.41,
-    "liquidation": 726.11,
+    "trap": 974.42,
+    "protection": 767.35,
+    "liquidation": 730.81,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "MRVL": {
     "trap": 155.8,
@@ -73,28 +81,28 @@
     "class": "equity"
    },
    "LIT": {
-    "trap": 3.3253,
-    "protection": 2.6187,
-    "liquidation": 2.494,
+    "trap": 3.24,
+    "protection": 2.552,
+    "liquidation": 2.43,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "DOGE": {
-    "trap": 0.067036,
-    "protection": 0.052791,
-    "liquidation": 0.050277,
+    "trap": 0.06757,
+    "protection": 0.05321,
+    "liquidation": 0.05068,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "PUMP": {
-    "trap": 0.00351497,
-    "protection": 0.00276804,
-    "liquidation": 0.00263623,
+    "trap": 0.0034985,
+    "protection": 0.0027551,
+    "liquidation": 0.0026239,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "NEAR": {
     "trap": 3.572,
@@ -104,31 +112,38 @@
     "class": "unknown"
    },
    "PENGU": {
-    "trap": 0.00615379,
-    "protection": 0.00484611,
-    "liquidation": 0.00461534,
+    "trap": 0.0062525,
+    "protection": 0.0049239,
+    "liquidation": 0.0046894,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "VVV": {
-    "trap": 18.8116,
-    "protection": 14.8141,
-    "liquidation": 14.1087,
+    "trap": 19.793,
+    "protection": 15.587,
+    "liquidation": 14.845,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-11T11:09:58Z"
+    "as_of": "2026-11-11T19:07:12Z"
+   },
+   "XAG": {
+    "trap": 50.807,
+    "protection": 40.01,
+    "liquidation": 38.105,
+    "side": "LONG",
+    "class": "commodity",
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "GOOGL": {
     "trap": 286.53,
     "protection": 225.64,
     "liquidation": 214.89,
     "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-11T11:09:58Z"
+    "class": "unknown"
    }
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "UT-JTwQkhHViTmbNYSFTdC_WNTzyQ2HII3y9GaFZdw1Dt8CdvflFvUiFU8M5IAsy3utFRmuWOmntADRueuZRDA"
+ "sig": "6ak-56WsWaCUl-O2nSf3VrLj5L4iak0Esl1exoQXJrxCMdlX1LF8iU19LAmQFCOKSpDcLTHTJQxlZlh2_QX0DQ"
 }
