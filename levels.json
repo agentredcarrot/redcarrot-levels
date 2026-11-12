@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-12T15:24:42Z",
+  "as_of": "2026-11-12T17:24:42Z",
   "interval_hours": 12,
   "levels": {
    "TSLA": {
@@ -59,6 +59,30 @@
     "class": "equity",
     "as_of": "2026-11-12T11:06:14Z"
    },
+   "LIT": {
+    "trap": 3.1205,
+    "protection": 2.4574,
+    "liquidation": 2.3404,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-12T11:06:14Z"
+   },
+   "PUMP": {
+    "trap": 0.00337707,
+    "protection": 0.00265944,
+    "liquidation": 0.0025328,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-12T11:06:14Z"
+   },
+   "PENGU": {
+    "trap": 0.0060612,
+    "protection": 0.00477319,
+    "liquidation": 0.0045459,
+    "side": "LONG",
+    "class": "unknown",
+    "as_of": "2026-11-12T11:06:14Z"
+   },
    "GOOGL": {
     "trap": 286.53,
     "protection": 225.64,
@@ -69,5 +93,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "7wWkueEjEjJ4Jhz_1DiBhnt50k3WvaMn7Qz9rBzfsLTJHAfxBLEQ-LmoDmBfQXnU5czmFwSabtUzC9p0rbLXAQ"
+ "sig": "o-GiLASCUJSGcYRIByh3NSfIZ_JvDuXJuIlfBdFqNY46btgh_-3k9dTig5lU02Dc5cBdjFGEmfiCRI8_sWyZAA"
 }
