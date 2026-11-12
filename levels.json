@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-12T03:24:42Z",
+  "as_of": "2026-11-12T05:24:42Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -65,20 +65,6 @@
     "side": "LONG",
     "class": "crypto",
     "as_of": "2026-11-12T03:05:51Z"
-   },
-   "MRVL": {
-    "trap": 162.6,
-    "protection": 128.05,
-    "liquidation": 121.95,
-    "side": "LONG",
-    "class": "equity"
-   },
-   "MU": {
-    "trap": 786.24,
-    "protection": 619.16,
-    "liquidation": 589.68,
-    "side": "LONG",
-    "class": "equity"
    },
    "LIT": {
     "trap": 3.2301,
@@ -146,5 +132,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "FATebIjwpqBti-yXcglgn-hPlfK2ipky0gu-lsJXjgaOUX29pOVCgpMp-K16MeTHuCHTWNZUj2_5GYFNAFm6CQ"
+ "sig": "S-Z5lV8xSy85MsUFJ7SJwq3aR2_y_7QZAP7shOmj_vaQgj8ppAG-m8MXCg9drXxzpdQmN4oyJuFWwvZJI87QAA"
 }
