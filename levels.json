@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-11T23:24:42Z",
+  "as_of": "2026-11-12T01:24:43Z",
   "interval_hours": 12,
   "levels": {
    "SOL": {
@@ -80,12 +80,21 @@
     "class": "crypto",
     "as_of": "2026-11-11T19:07:12Z"
    },
-   "NEAR": {
-    "trap": 3.572,
-    "protection": 2.813,
-    "liquidation": 2.679,
+   "DOGE": {
+    "trap": 0.06757,
+    "protection": 0.05321,
+    "liquidation": 0.05068,
     "side": "LONG",
-    "class": "unknown"
+    "class": "crypto",
+    "as_of": "2026-11-11T19:07:12Z"
+   },
+   "VVV": {
+    "trap": 19.793,
+    "protection": 15.587,
+    "liquidation": 14.845,
+    "side": "LONG",
+    "class": "unknown",
+    "as_of": "2026-11-11T19:07:12Z"
    },
    "XAG": {
     "trap": 50.807,
@@ -105,5 +114,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "QfvCbrPkvPMqZCrvE4IcWU752T9KA04m50Dtt5X4KbHxlHODOvoNRRdMds3aV46Og07kaIKVQtuGf9LEgwp-Bw"
+ "sig": "4gVkRnfAF7wL5vsuXS4h7bWRmAbR-dIve1Jj11C91O_bK-KjOtAokhvScUJgbtTqaZQpU54GJgtoT1ZrOSlQBw"
 }
