@@ -1,16 +1,15 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-13T13:24:43Z",
+  "as_of": "2026-11-13T15:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
     "trap": 68215.0,
-    "protection": 53719.3,
-    "liquidation": 51161.2,
+    "protection": 53719.0,
+    "liquidation": 51161.0,
     "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-13T11:45:33Z"
+    "class": "crypto"
    },
    "SOL": {
     "trap": 77.86,
@@ -20,18 +19,11 @@
     "class": "crypto"
    },
    "SUI": {
-    "trap": 0.789,
-    "protection": 0.6213,
-    "liquidation": 0.5917,
+    "trap": 0.8012,
+    "protection": 0.631,
+    "liquidation": 0.6009,
     "side": "LONG",
     "class": "crypto"
-   },
-   "TSLA": {
-    "trap": 392.45,
-    "protection": 309.05,
-    "liquidation": 294.34,
-    "side": "LONG",
-    "class": "equity"
    },
    "SPCX": {
     "trap": 138.6,
@@ -40,14 +32,6 @@
     "side": "LONG",
     "class": "equity"
    },
-   "SKHYNIXUSD": {
-    "trap": 908.14,
-    "protection": 715.17,
-    "liquidation": 681.11,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-13T11:45:33Z"
-   },
    "ZEC": {
     "trap": 943.21,
     "protection": 742.8,
@@ -55,25 +39,10 @@
     "side": "LONG",
     "class": "crypto"
    },
-   "MRVL": {
-    "trap": 162.23,
-    "protection": 127.75,
-    "liquidation": 121.67,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-13T11:45:33Z"
-   },
-   "MU": {
-    "trap": 780.45,
-    "protection": 614.6,
-    "liquidation": 585.3,
-    "side": "LONG",
-    "class": "equity"
-   },
    "LIT": {
-    "trap": 3.216,
-    "protection": 2.53,
-    "liquidation": 2.41,
+    "trap": 3.05,
+    "protection": 2.4,
+    "liquidation": 2.29,
     "side": "LONG",
     "class": "crypto"
    },
@@ -96,8 +65,7 @@
     "protection": 495.94,
     "liquidation": 472.32,
     "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-13T11:45:33Z"
+    "class": "unknown"
    },
    "GOOGL": {
     "trap": 296.06,
@@ -109,5 +77,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "ioAwna3IYaOPB-ofP2-m0qh2lzQN1Z_rz3kVCxpV2_UiWMoNGNiNHO33wuIXcGPGv80Q2M4UMUjVPZ4_l6WTCw"
+ "sig": "H00rRRG1Q7JhJikd4VRSn352CVR_gaIlz58we_FQEGKJoZvfXDSulj5P4ZFOmSkCHclO6uWQQSjaUaF5MjuGBQ"
 }
