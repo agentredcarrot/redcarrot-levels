@@ -1,31 +1,9 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-13T21:24:43Z",
+  "as_of": "2026-11-13T23:24:43Z",
   "interval_hours": 12,
   "levels": {
-   "BTC": {
-    "trap": 68215.0,
-    "protection": 53719.0,
-    "liquidation": 51161.0,
-    "side": "LONG",
-    "class": "crypto"
-   },
-   "SOL": {
-    "trap": 77.86,
-    "protection": 61.31,
-    "liquidation": 58.39,
-    "side": "LONG",
-    "class": "crypto"
-   },
-   "SUI": {
-    "trap": 0.7939,
-    "protection": 0.6252,
-    "liquidation": 0.5954,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-13T19:11:05Z"
-   },
    "TSLA": {
     "trap": 384.97,
     "protection": 303.17,
@@ -42,34 +20,10 @@
     "class": "equity",
     "as_of": "2026-11-13T19:11:05Z"
    },
-   "SPCX": {
-    "trap": 137.67,
-    "protection": 108.41,
-    "liquidation": 103.25,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-13T19:11:05Z"
-   },
    "SKHYNIXUSD": {
     "trap": 873.16,
     "protection": 687.61,
     "liquidation": 654.87,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-13T19:11:05Z"
-   },
-   "ZEC": {
-    "trap": 931.09,
-    "protection": 733.24,
-    "liquidation": 698.32,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-13T19:11:05Z"
-   },
-   "MRVL": {
-    "trap": 153.57,
-    "protection": 120.94,
-    "liquidation": 115.18,
     "side": "LONG",
     "class": "equity",
     "as_of": "2026-11-13T19:11:05Z"
@@ -83,9 +37,9 @@
     "as_of": "2026-11-13T19:11:05Z"
    },
    "LIT": {
-    "trap": 3.17,
-    "protection": 2.5,
-    "liquidation": 2.38,
+    "trap": 3.05,
+    "protection": 2.4,
+    "liquidation": 2.29,
     "side": "LONG",
     "class": "crypto"
    },
@@ -122,5 +76,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "q22vdcTZs0nftFGx_4m_OKFAcALS8ATT9nD26WMUMiDaNfjc7DWnjgDzEhdGPFJGSOgU4pT8Z8xpHaI9xVJEBg"
+ "sig": "XEx7iUO5r9jZDdJJCrnifLh4O23IQ2gOB1lVV_reOCXxDOflAmuKTGiGw97bBT-PLggiqjyThSRfvJnU2U-MBA"
 }
