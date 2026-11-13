@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-13T15:24:42Z",
+  "as_of": "2026-11-13T17:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -15,27 +15,6 @@
     "trap": 77.86,
     "protection": 61.31,
     "liquidation": 58.39,
-    "side": "LONG",
-    "class": "crypto"
-   },
-   "SUI": {
-    "trap": 0.8012,
-    "protection": 0.631,
-    "liquidation": 0.6009,
-    "side": "LONG",
-    "class": "crypto"
-   },
-   "SPCX": {
-    "trap": 138.6,
-    "protection": 109.15,
-    "liquidation": 103.95,
-    "side": "LONG",
-    "class": "equity"
-   },
-   "ZEC": {
-    "trap": 943.21,
-    "protection": 742.8,
-    "liquidation": 707.4,
     "side": "LONG",
     "class": "crypto"
    },
@@ -59,23 +38,9 @@
     "liquidation": 2899.0,
     "side": "LONG",
     "class": "unknown"
-   },
-   "BNB": {
-    "trap": 629.76,
-    "protection": 495.94,
-    "liquidation": 472.32,
-    "side": "LONG",
-    "class": "unknown"
-   },
-   "GOOGL": {
-    "trap": 296.06,
-    "protection": 233.1,
-    "liquidation": 222.0,
-    "side": "LONG",
-    "class": "unknown"
    }
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "H00rRRG1Q7JhJikd4VRSn352CVR_gaIlz58we_FQEGKJoZvfXDSulj5P4ZFOmSkCHclO6uWQQSjaUaF5MjuGBQ"
+ "sig": "GepHE9Yoe2CcoaTLOGnu0Dt51qIcWqjOrAnogQB8RlIMuYwbitlp01mtOpFDgj-89wFjgfVniM1ExDG68qYABA"
 }
