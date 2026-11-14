@@ -1,33 +1,9 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-14T13:24:43Z",
+  "as_of": "2026-11-14T15:24:43Z",
   "interval_hours": 12,
   "levels": {
-   "BTC": {
-    "trap": 66259.0,
-    "protection": 52179.0,
-    "liquidation": 49694.0,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-14T11:07:23Z"
-   },
-   "SOL": {
-    "trap": 74.59,
-    "protection": 58.74,
-    "liquidation": 55.94,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-14T11:07:23Z"
-   },
-   "SUI": {
-    "trap": 0.7588,
-    "protection": 0.5976,
-    "liquidation": 0.5691,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-14T11:07:23Z"
-   },
    "TSLA": {
     "trap": 382.65,
     "protection": 301.34,
@@ -76,28 +52,12 @@
     "class": "equity",
     "as_of": "2026-11-14T11:07:23Z"
    },
-   "ETH": {
-    "trap": 1880.0,
-    "protection": 1480.0,
-    "liquidation": 1410.0,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-14T11:07:23Z"
-   },
    "XAU": {
     "trap": 3865.0,
     "protection": 3044.0,
     "liquidation": 2899.0,
     "side": "LONG",
     "class": "unknown"
-   },
-   "BNB": {
-    "trap": 609.08,
-    "protection": 479.65,
-    "liquidation": 456.81,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-14T11:07:23Z"
    },
    "GOOGL": {
     "trap": 289.6,
@@ -110,5 +70,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "NZN7mGwKfTKznl84lLmDft00mU3XRvH7zzv0Y3jVLixeCw2jum1xa4yH55hOysE9T74iDrUEu2IBkIvSK88mAg"
+ "sig": "aNt6-h6oIFAqVorX6Ni1PzQ7_6_g7IxI0j1sOSwiMqoZYChDbDdvAqzjeRVIB1V5nvI6h2M5alWJSy4tyZtDBg"
 }
