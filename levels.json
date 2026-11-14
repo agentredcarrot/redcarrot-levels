@@ -1,17 +1,9 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-14T21:24:43Z",
+  "as_of": "2026-11-14T23:24:43Z",
   "interval_hours": 12,
   "levels": {
-   "BTC": {
-    "trap": 64637.13,
-    "protection": 50901.74,
-    "liquidation": 48477.85,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-14T19:06:46Z"
-   },
    "TSLA": {
     "trap": 379.12,
     "protection": 298.55,
@@ -68,14 +60,6 @@
     "class": "unknown",
     "as_of": "2026-11-14T19:06:46Z"
    },
-   "BNB": {
-    "trap": 580.56,
-    "protection": 457.19,
-    "liquidation": 435.42,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-14T19:06:46Z"
-   },
    "GOOGL": {
     "trap": 286.17,
     "protection": 225.36,
@@ -87,5 +71,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "xavf7V2jq0o3kTnrzc9H-cmNUeBPWkWTwxTbyl7QXkfEh3YM11pwkwe3Z4ijVrtYXnx8t11utqOkNA-eU-VSCg"
+ "sig": "bzS-zbFD2w2uf1bUtUsK70BaZz9t-D7cLtPtgROG-aA3-6ify1KLkwIb6Uq_gtGMGRRleicewUSsJIe0Ked6Cg"
 }
