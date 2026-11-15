@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-14T23:24:43Z",
+  "as_of": "2026-11-15T01:24:43Z",
   "interval_hours": 12,
   "levels": {
    "TSLA": {
@@ -34,6 +34,14 @@
     "liquidation": 641.23,
     "side": "LONG",
     "class": "equity",
+    "as_of": "2026-11-14T19:06:46Z"
+   },
+   "ZEC": {
+    "trap": 847.23,
+    "protection": 667.19,
+    "liquidation": 635.42,
+    "side": "LONG",
+    "class": "crypto",
     "as_of": "2026-11-14T19:06:46Z"
    },
    "MRVL": {
@@ -71,5 +79,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "bzS-zbFD2w2uf1bUtUsK70BaZz9t-D7cLtPtgROG-aA3-6ify1KLkwIb6Uq_gtGMGRRleicewUSsJIe0Ked6Cg"
+ "sig": "XcxKVLvEUZtGDpea_WDuPML0DYY3oDTBusJGanh6ERgVu0FBbIdk9G2fDWwt-aFDnAflZN2MNKONSdcfPMuRCg"
 }
