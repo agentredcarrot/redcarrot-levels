@@ -1,13 +1,21 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-15T07:24:43Z",
+  "as_of": "2026-11-15T09:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
     "trap": 64040.76,
     "protection": 50432.1,
     "liquidation": 48030.57,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-15T03:06:11Z"
+   },
+   "SOL": {
+    "trap": 70.395,
+    "protection": 55.436,
+    "liquidation": 52.796,
     "side": "LONG",
     "class": "crypto",
     "as_of": "2026-11-15T03:06:11Z"
@@ -52,6 +60,14 @@
     "class": "equity",
     "as_of": "2026-11-15T03:06:11Z"
    },
+   "ZEC": {
+    "trap": 900.72,
+    "protection": 709.32,
+    "liquidation": 675.54,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-15T03:06:11Z"
+   },
    "MRVL": {
     "trap": 149.76,
     "protection": 117.94,
@@ -66,6 +82,14 @@
     "liquidation": 561.11,
     "side": "LONG",
     "class": "equity",
+    "as_of": "2026-11-15T03:06:11Z"
+   },
+   "ETH": {
+    "trap": 1793.35,
+    "protection": 1412.26,
+    "liquidation": 1345.01,
+    "side": "LONG",
+    "class": "crypto",
     "as_of": "2026-11-15T03:06:11Z"
    },
    "XAU": {
@@ -95,5 +119,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "SzXNUAwri6xd3aippqLp8_wteMCIW4OvelUjE6omhewehcQGLL1f6iCVJpAF4sFge3Q9UezyAAl2DW4QxgN8BA"
+ "sig": "ll7D0XxA8W9A8WPXDqhnhheQeZ9cViHmBf75iR0rdfQ_KzodUO1Ts17C91neHEg1y7ahjOX8rJvUmjwlSxaLAA"
 }
