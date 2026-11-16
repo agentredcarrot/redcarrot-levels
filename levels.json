@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-16T03:24:44Z",
+  "as_of": "2026-11-16T05:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -36,60 +36,12 @@
     "class": "equity",
     "as_of": "2026-11-16T03:12:31Z"
    },
-   "NVDA": {
-    "trap": 161.44,
-    "protection": 127.13,
-    "liquidation": 121.08,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-16T03:12:31Z"
-   },
    "SPCX": {
     "trap": 138.39,
     "protection": 108.98,
     "liquidation": 103.79,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-16T03:12:31Z"
-   },
-   "SKHYNIXUSD": {
-    "trap": 850.74,
-    "protection": 669.96,
-    "liquidation": 638.06,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-16T03:12:31Z"
-   },
-   "ZEC": {
-    "trap": 889.68,
-    "protection": 700.62,
-    "liquidation": 667.26,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-16T03:12:31Z"
-   },
-   "MRVL": {
-    "trap": 151.45,
-    "protection": 119.27,
-    "liquidation": 113.59,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-16T03:12:31Z"
-   },
-   "MU": {
-    "trap": 749.96,
-    "protection": 590.59,
-    "liquidation": 562.47,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-16T03:12:31Z"
-   },
-   "LIT": {
-    "trap": 2.7519,
-    "protection": 2.1671,
-    "liquidation": 2.0639,
-    "side": "LONG",
-    "class": "crypto",
     "as_of": "2026-11-16T03:12:31Z"
    },
    "ETH": {
@@ -127,5 +79,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "cZVfm2R66J3hjEWdUuN9OKMqsdSJKj8YnXD0awlUd3CPpgYIlaJeUgYivG2hvJHY2k4e3UBBsegfrgo2fFbyCw"
+ "sig": "NAO_pFOKs8q85N1-XSv0OnnYfgqBgrD48aDgq-FBs52F1YmCi6IZXw4szsEpRdvUxcteCQpTopzTCTs8F_yQAA"
 }
