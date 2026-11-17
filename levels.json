@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-17T15:24:43Z",
+  "as_of": "2026-11-17T17:24:44Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -49,8 +49,7 @@
     "protection": 106.42,
     "liquidation": 101.35,
     "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-17T11:05:17Z"
+    "class": "equity"
    },
    "SKHYNIXUSD": {
     "trap": 808.3,
@@ -76,21 +75,6 @@
     "class": "equity",
     "as_of": "2026-11-17T11:05:17Z"
    },
-   "MU": {
-    "trap": 698.87,
-    "protection": 550.36,
-    "liquidation": 524.15,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-17T11:05:17Z"
-   },
-   "LIT": {
-    "trap": 2.8882,
-    "protection": 2.27,
-    "liquidation": 2.17,
-    "side": "LONG",
-    "class": "crypto"
-   },
    "ETH": {
     "trap": 1761.56,
     "protection": 1387.23,
@@ -104,8 +88,7 @@
     "protection": 2992.99,
     "liquidation": 2850.47,
     "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-17T11:05:17Z"
+    "class": "unknown"
    },
    "BNB": {
     "trap": 578.29,
@@ -126,5 +109,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "obeyP5hpFa-DH5dQc5ptuagps7Bp8tMXVSYAxBzcuWW4CPqiDRxN5927XIdfoSEpFI5UQgoy0lyT7qafsUINAw"
+ "sig": "jfaPPrhMyXkeYOewC-tJ_YGFk7I_KgqRgIW3wIgnC9Z5qsMbqSk9aXZbub7r4xnVXT1E0hGcGUblbw1qUEyHDg"
 }
