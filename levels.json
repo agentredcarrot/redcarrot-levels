@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-17T19:24:43Z",
+  "as_of": "2026-11-17T21:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -46,8 +46,8 @@
    },
    "SPCX": {
     "trap": 138.56,
-    "protection": 109.12,
-    "liquidation": 103.92,
+    "protection": 109.1,
+    "liquidation": 103.9,
     "side": "LONG",
     "class": "equity"
    },
@@ -125,5 +125,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "yVK6xJtcz1qfX9YvZZahghIPJxVlrjPc4YJTq9zsnNXjaGlPAXMuqBmZNLpPDFa-J4HFmFAtDSLgvatP5IqwCQ"
+ "sig": "nZTOKnVpBKs3sIOm_6FC2-HJW71n3Du0GJsv6HUTWmYtafw5BkQhFalT7Fh7ZGVMkPyY8cnAs0oF0ySrAsn7AQ"
 }
