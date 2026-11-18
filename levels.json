@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-18T05:24:42Z",
+  "as_of": "2026-11-18T07:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -50,14 +50,6 @@
     "liquidation": 103.9,
     "side": "LONG",
     "class": "equity"
-   },
-   "SKHYNIXUSD": {
-    "trap": 805.55,
-    "protection": 634.37,
-    "liquidation": 604.16,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-17T19:06:48Z"
    },
    "ZEC": {
     "trap": 938.48,
@@ -117,5 +109,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "N0BjxfLX8Sy5IefWKmH86QdZZbZ4y8iFuzTkUFbctO9H53qp6Xf-erSs3udpiIG5We398fwCszhHN207nCe-Cw"
+ "sig": "MOFwDQ6s8C2pUbw8sYBumCNarUKHLScd9l_LuesmecTy0RmF9sjfV2R36HxF5HDEO8loc5FKZcyQ-o7ToWsECg"
 }
