@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-18T23:24:42Z",
+  "as_of": "2026-11-19T01:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -127,5 +127,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "1zdmJO0jyJxVQlVZPJM62ow33j7FdPO2kW7EeV64yB68ZR0Icqtnq7wiARIs2zZtDThybI42BFIqiS8Tb8URBQ"
+ "sig": "L3JSO_J8ozzx1iJpx4y1Q_PJLJDW7yNky6IAbjrRjJ1KY1VsQzF7NLy9IXxk0cp4jUdwANx3Mu9birRCS-x6BQ"
 }
