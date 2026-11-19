@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-19T13:24:43Z",
+  "as_of": "2026-11-19T15:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -89,8 +89,7 @@
     "protection": 2.2745,
     "liquidation": 2.1662,
     "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-19T11:07:21Z"
+    "class": "crypto"
    },
    "ETH": {
     "trap": 1775.4,
@@ -127,5 +126,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "kHVFLBABfvz_FjXFWXXINC2oh3aT4YloXxja3BaFk75m7p2Pax8yP2iPKlUrVI4AW2mkRGw_huL-qGYVRKwfAw"
+ "sig": "of2cDrxFVrJTWgD5GfFJ2Q1oL8n0MYKK3bv5K8IV1ruthIQXRwMoyi29VVUAuxyOgj6wl6cF-DE5uoRi5tCiDg"
 }
