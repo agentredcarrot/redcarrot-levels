@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-20T05:24:43Z",
+  "as_of": "2026-11-20T07:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -16,6 +16,14 @@
     "trap": 72.04,
     "protection": 56.732,
     "liquidation": 54.03,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-20T03:04:51Z"
+   },
+   "SUI": {
+    "trap": 0.69474,
+    "protection": 0.54711,
+    "liquidation": 0.52106,
     "side": "LONG",
     "class": "crypto",
     "as_of": "2026-11-20T03:04:51Z"
@@ -111,5 +119,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "_ZhZlgHWSO_K1Qz0EZp00icERf0piP7i8V2tuU8kMlBVwm7aUb8VFq7k1Pd1kfAXJA3OOTSMj0t0eenoY0G_CA"
+ "sig": "Mpq4FiWBUgW2JQ2-AtGcXW9YMmpITjMx53Xjvbx6LJIogtJsMQce9VqN4NQO9tFno1vlCW6TLAl_ydSl7I3pCA"
 }
