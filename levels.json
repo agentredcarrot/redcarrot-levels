@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-20T21:24:43Z",
+  "as_of": "2026-11-20T23:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -12,10 +12,58 @@
     "class": "crypto",
     "as_of": "2026-11-20T19:06:19Z"
    },
+   "SOL": {
+    "trap": 67.99,
+    "protection": 53.542,
+    "liquidation": 50.992,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-20T19:06:19Z"
+   },
+   "SUI": {
+    "trap": 0.63945,
+    "protection": 0.50356,
+    "liquidation": 0.47959,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-20T19:06:19Z"
+   },
    "TSLA": {
     "trap": 345.91,
     "protection": 272.4,
     "liquidation": 259.43,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-20T19:06:19Z"
+   },
+   "SPCX": {
+    "trap": 128.87,
+    "protection": 101.48,
+    "liquidation": 96.649,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-20T19:06:19Z"
+   },
+   "ZEC": {
+    "trap": 754.32,
+    "protection": 594.02,
+    "liquidation": 565.74,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-20T19:06:19Z"
+   },
+   "MRVL": {
+    "trap": 124.25,
+    "protection": 97.851,
+    "liquidation": 93.191,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-20T19:06:19Z"
+   },
+   "MU": {
+    "trap": 601.32,
+    "protection": 473.54,
+    "liquidation": 450.99,
     "side": "LONG",
     "class": "equity",
     "as_of": "2026-11-20T19:06:19Z"
@@ -51,9 +99,17 @@
     "side": "LONG",
     "class": "unknown",
     "as_of": "2026-11-20T19:06:19Z"
+   },
+   "GOOGL": {
+    "trap": 269.0,
+    "protection": 211.84,
+    "liquidation": 201.75,
+    "side": "LONG",
+    "class": "unknown",
+    "as_of": "2026-11-20T19:06:19Z"
    }
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "u2z-msWz_Dwe9WzpunhGCYPI4VsZ5VJvSwFggHPw40AFDdkHIwkXeHK0orF3iZbMGvvDjGG_x39DpAIdC6YwDw"
+ "sig": "p9jnZvUzzG_vZeqCTeSe9hN0uFpIh-FJvDeH2o9LzNRPHNr9nEvMc_w0UNOj0EIHOSY1fG5xzXRwsDRSBkSlCw"
 }
