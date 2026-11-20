@@ -1,93 +1,13 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-20T15:24:43Z",
+  "as_of": "2026-11-20T17:24:43Z",
   "interval_hours": 12,
   "levels": {
-   "BTC": {
-    "trap": 61140.13,
-    "protection": 48147.86,
-    "liquidation": 45855.1,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "SUI": {
-    "trap": 0.67953,
-    "protection": 0.53513,
-    "liquidation": 0.50965,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "TSLA": {
-    "trap": 363.94,
-    "protection": 286.6,
-    "liquidation": 272.95,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "NVDA": {
-    "trap": 141.24,
-    "protection": 111.23,
-    "liquidation": 105.93,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "SPCX": {
-    "trap": 131.71,
-    "protection": 103.72,
-    "liquidation": 98.78,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "SKHYNIXUSD": {
-    "trap": 808.4,
-    "protection": 636.62,
-    "liquidation": 606.3,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "MRVL": {
-    "trap": 131.6,
-    "protection": 103.64,
-    "liquidation": 98.7,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "MU": {
-    "trap": 654.7,
-    "protection": 515.58,
-    "liquidation": 491.03,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "ETH": {
-    "trap": 1730.94,
-    "protection": 1363.11,
-    "liquidation": 1298.2,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
    "XAU": {
     "trap": 3537.94,
     "protection": 2786.12,
     "liquidation": 2653.45,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-20T11:07:15Z"
-   },
-   "BNB": {
-    "trap": 564.81,
-    "protection": 444.79,
-    "liquidation": 423.61,
     "side": "LONG",
     "class": "unknown",
     "as_of": "2026-11-20T11:07:15Z"
@@ -103,5 +23,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "aad_vdwuNpd9BUVXqvULj0XecPNA8YzH57vVbpGYSYfDSlAd5K3CaUcYkBWc0taUL3iTtQnZYgH1a0M1YFSZDA"
+ "sig": "sTnYT3JbHxtnrq0WDNjjAuN9q62P8L8FuukDOJGW3qK1000VZJnp8okRbE3O1Q7EoHs19161PKIs_p3_e5nMBg"
 }
