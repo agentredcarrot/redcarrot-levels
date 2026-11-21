@@ -1,33 +1,9 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-21T03:24:43Z",
+  "as_of": "2026-11-21T05:24:43Z",
   "interval_hours": 12,
   "levels": {
-   "BTC": {
-    "trap": 57663.43,
-    "protection": 45409.95,
-    "liquidation": 43247.57,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "SOL": {
-    "trap": 67.4,
-    "protection": 53.078,
-    "liquidation": 50.55,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "SUI": {
-    "trap": 0.62707,
-    "protection": 0.49382,
-    "liquidation": 0.4703,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
    "TSLA": {
     "trap": 346.54,
     "protection": 272.9,
@@ -52,52 +28,12 @@
     "class": "equity",
     "as_of": "2026-11-21T03:05:56Z"
    },
-   "SKHYNIXUSD": {
-    "trap": 741.67,
-    "protection": 584.07,
-    "liquidation": 556.25,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "ZEC": {
-    "trap": 700.18,
-    "protection": 551.39,
-    "liquidation": 525.13,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
    "MRVL": {
     "trap": 123.83,
     "protection": 97.52,
     "liquidation": 92.87,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "MU": {
-    "trap": 597.68,
-    "protection": 470.67,
-    "liquidation": 448.26,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "ETH": {
-    "trap": 1593.46,
-    "protection": 1254.85,
-    "liquidation": 1195.1,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "BNB": {
-    "trap": 526.41,
-    "protection": 414.55,
-    "liquidation": 394.81,
-    "side": "LONG",
-    "class": "unknown",
     "as_of": "2026-11-21T03:05:56Z"
    },
    "GOOGL": {
@@ -111,5 +47,5 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "AAQQDaCRbiX0jbBhz0NmbqqUDlczhOHeBeDB5jvMQ5IaXN2Myz1QsSkpjkON_TpYVZp04B2DvlQu-NLf6c8LBA"
+ "sig": "2mE0FxEVk3LMXnrgQf0iYlcGiJq8mYFnc88yCy97Bh4ZqkTRRRjoy7fFAxsHUBSJkm0IFugB8frS5QahL62AAg"
 }
