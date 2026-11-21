@@ -1,107 +1,115 @@
 {
  "payload": {
   "schema_version": 2,
-  "as_of": "2026-11-21T01:24:43Z",
+  "as_of": "2026-11-21T03:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
-    "trap": 57449.14,
-    "protection": 45241.2,
-    "liquidation": 43086.85,
+    "trap": 57663.43,
+    "protection": 45409.95,
+    "liquidation": 43247.57,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "SOL": {
-    "trap": 67.99,
-    "protection": 53.542,
-    "liquidation": 50.992,
+    "trap": 67.4,
+    "protection": 53.078,
+    "liquidation": 50.55,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "SUI": {
-    "trap": 0.63945,
-    "protection": 0.50356,
-    "liquidation": 0.47959,
+    "trap": 0.62707,
+    "protection": 0.49382,
+    "liquidation": 0.4703,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "TSLA": {
-    "trap": 345.91,
-    "protection": 272.4,
-    "liquidation": 259.43,
+    "trap": 346.54,
+    "protection": 272.9,
+    "liquidation": 259.91,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
+   },
+   "NVDA": {
+    "trap": 128.76,
+    "protection": 101.4,
+    "liquidation": 96.57,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "SPCX": {
-    "trap": 128.87,
-    "protection": 101.48,
-    "liquidation": 96.649,
+    "trap": 127.23,
+    "protection": 100.19,
+    "liquidation": 95.42,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
+   },
+   "SKHYNIXUSD": {
+    "trap": 741.67,
+    "protection": 584.07,
+    "liquidation": 556.25,
+    "side": "LONG",
+    "class": "equity",
+    "as_of": "2026-11-21T03:05:56Z"
+   },
+   "ZEC": {
+    "trap": 700.18,
+    "protection": 551.39,
+    "liquidation": 525.13,
+    "side": "LONG",
+    "class": "crypto",
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "MRVL": {
-    "trap": 124.25,
-    "protection": 97.851,
-    "liquidation": 93.191,
+    "trap": 123.83,
+    "protection": 97.52,
+    "liquidation": 92.87,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "MU": {
-    "trap": 601.32,
-    "protection": 473.54,
-    "liquidation": 450.99,
+    "trap": 597.68,
+    "protection": 470.67,
+    "liquidation": 448.26,
     "side": "LONG",
     "class": "equity",
-    "as_of": "2026-11-20T19:06:19Z"
-   },
-   "LIT": {
-    "trap": 2.3054,
-    "protection": 1.8155,
-    "liquidation": 1.729,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "ETH": {
-    "trap": 1591.58,
-    "protection": 1253.37,
-    "liquidation": 1193.69,
+    "trap": 1593.46,
+    "protection": 1254.85,
+    "liquidation": 1195.1,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-20T19:06:19Z"
-   },
-   "XAU": {
-    "trap": 3484.36,
-    "protection": 2743.93,
-    "liquidation": 2613.27,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "BNB": {
-    "trap": 529.8,
-    "protection": 417.22,
-    "liquidation": 397.35,
+    "trap": 526.41,
+    "protection": 414.55,
+    "liquidation": 394.81,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    },
    "GOOGL": {
-    "trap": 269.0,
-    "protection": 211.84,
-    "liquidation": 201.75,
+    "trap": 265.95,
+    "protection": 209.44,
+    "liquidation": 199.46,
     "side": "LONG",
     "class": "unknown",
-    "as_of": "2026-11-20T19:06:19Z"
+    "as_of": "2026-11-21T03:05:56Z"
    }
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
  },
- "sig": "O_mgIOSMBog4qEhoUlHyZze9wrYvxZAzYScxnXeX7XT4BPi3Sn2T64hoLVEBgnDuhS_0s0Rrr2V4mmOJcymjBA"
+ "sig": "AAQQDaCRbiX0jbBhz0NmbqqUDlczhOHeBeDB5jvMQ5IaXN2Myz1QsSkpjkON_TpYVZp04B2DvlQu-NLf6c8LBA"
 }
