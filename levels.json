@@ -1,51 +1,28 @@
 {
  "payload": {
-  "schema_version": 2,
-  "as_of": "2026-11-21T09:24:43Z",
+  "schema_version": 3,
+  "as_of": "2026-11-22T11:24:43Z",
   "interval_hours": 12,
   "levels": {
-   "TSLA": {
-    "trap": 346.54,
-    "protection": 272.9,
-    "liquidation": 259.91,
+   "BTC": {
+    "trap": 59939.0,
+    "protection": 47202.0,
+    "liquidation": 44954.0,
     "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "NVDA": {
-    "trap": 128.76,
-    "protection": 101.4,
-    "liquidation": 96.57,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "SPCX": {
-    "trap": 127.23,
-    "protection": 100.19,
-    "liquidation": 95.42,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "MRVL": {
-    "trap": 123.83,
-    "protection": 97.52,
-    "liquidation": 92.87,
-    "side": "LONG",
-    "class": "equity",
-    "as_of": "2026-11-21T03:05:56Z"
-   },
-   "GOOGL": {
-    "trap": 265.95,
-    "protection": 209.44,
-    "liquidation": 199.46,
-    "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-21T03:05:56Z"
+    "class": "crypto",
+    "as_of": "2026-11-22T11:04:47Z"
    }
   },
-  "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952"
+  "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952",
+  "fng": {
+   "value": 8,
+   "band": null,
+   "classification": "Extreme fear",
+   "source": "cmc_keyless",
+   "update_time": "2026-11-22T11:23:10.031Z",
+   "fetched_at": 1795346683.6959343,
+   "via": "feed_fetch"
+  }
  },
- "sig": "lma2Cu3dvsfYH1NdPfNB6KHvKrhxXcvxibjAg2vZgK6eNZxslbdsa5DaLaEMhwjz0Mf5PnA28PzHhHdeqY7qCw"
+ "sig": "YZm0uB98QCwXDMZEE0Vj1dhLmd63pCCEDiLs1rY9angAoNJbua-wGtt7R-N_OOpQxC3slUSjas5NMPhNX0ubAA"
 }
