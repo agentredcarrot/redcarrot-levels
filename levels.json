@@ -1,7 +1,7 @@
 {
  "payload": {
-  "schema_version": 3,
-  "as_of": "2026-11-22T11:24:43Z",
+  "schema_version": 4,
+  "as_of": "2026-11-22T13:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -16,13 +16,26 @@
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952",
   "fng": {
    "value": 8,
-   "band": null,
+   "band": "extreme_fear",
    "classification": "Extreme fear",
-   "source": "cmc_keyless",
-   "update_time": "2026-11-22T11:23:10.031Z",
-   "fetched_at": 1795346683.6959343,
-   "via": "feed_fetch"
+   "source": "cmc_keyed",
+   "update_time": "2026-11-22T12:23:10.087Z",
+   "fetched_at": 1795350649.9758685,
+   "via": "daemon_cache",
+   "band_source": "daemon_committed",
+   "long": {
+    "band": "extreme_fear",
+    "target_roe": 0.15,
+    "new_orders": true,
+    "cancel_unfilled": false
+   },
+   "short": {
+    "band": "extreme_fear",
+    "target_roe": 0.03,
+    "new_orders": false,
+    "cancel_unfilled": true
+   }
   }
  },
- "sig": "YZm0uB98QCwXDMZEE0Vj1dhLmd63pCCEDiLs1rY9angAoNJbua-wGtt7R-N_OOpQxC3slUSjas5NMPhNX0ubAA"
+ "sig": "RKs_qbZid6Ie6PjPz1CuX-VrAWuJbkjU8Eq6fLiS9eNvdAIASmXtmx_uwrmyWIcEc5ZlLik4Uq3HASsFXbOrBA"
 }
