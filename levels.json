@@ -1,16 +1,16 @@
 {
  "payload": {
   "schema_version": 4,
-  "as_of": "2026-11-22T17:24:42Z",
+  "as_of": "2026-11-22T19:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
-    "trap": 59939.0,
-    "protection": 47202.0,
-    "liquidation": 44954.0,
+    "trap": 59832.0,
+    "protection": 47118.0,
+    "liquidation": 44874.0,
     "side": "LONG",
     "class": "crypto",
-    "as_of": "2026-11-22T11:04:47Z"
+    "as_of": "2026-11-22T19:05:17Z"
    }
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952",
@@ -19,8 +19,8 @@
    "band": "extreme_fear",
    "classification": "Extreme fear",
    "source": "cmc_keyed",
-   "update_time": "2026-11-22T16:53:10.054Z",
-   "fetched_at": 1795366849.3676822,
+   "update_time": "2026-11-22T18:53:10.017Z",
+   "fetched_at": 1795374048.3269837,
    "via": "daemon_cache",
    "band_source": "daemon_committed",
    "long": {
@@ -37,5 +37,5 @@
    }
   }
  },
- "sig": "EzZAyKmmgLi7oDmlBiGS--7gF1Gu4osJRaoQK5eSM2rbZqe4aHdOtMCzcq067WTD-_FGAdh3oiFaYxHBlFyAAg"
+ "sig": "jDeHRCrppad6O9GkqRmH1iIAU9tOQB9P09IMBl0tTL9QL66vDFoZsp0MRMuIs6L9D4polBulcpOKtLQfuY0NCw"
 }
