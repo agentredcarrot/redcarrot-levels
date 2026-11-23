@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 4,
-  "as_of": "2026-11-23T05:24:42Z",
+  "as_of": "2026-11-23T07:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -19,8 +19,8 @@
    "band": "extreme_fear",
    "classification": "Extreme fear",
    "source": "cmc_keyed",
-   "update_time": "2026-11-23T04:53:10.027Z",
-   "fetched_at": 1795410048.5212865,
+   "update_time": "2026-11-23T06:53:10.026Z",
+   "fetched_at": 1795417247.3261354,
    "via": "daemon_cache",
    "band_source": "daemon_committed",
    "long": {
@@ -37,5 +37,5 @@
    }
   }
  },
- "sig": "5osvpBIiX_Jdu3kAyKFQ97rCoI86UKo2oXDnKjbRVV1GvtI25NZtgir-a6zpkL6oYi63ZlopSPrY_J6Neqx_Aw"
+ "sig": "5dF9K9EHVCq2KkqBaKvMN5_vOvMtn_ehPSJ0XPuq0u7xab6LMIO7rZ6VHg6yGezTxQfLNZtGXcVfxry9hZYhBg"
 }
