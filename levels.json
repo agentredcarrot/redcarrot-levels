@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 4,
-  "as_of": "2026-11-28T03:24:43Z",
+  "as_of": "2026-11-28T05:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -84,8 +84,8 @@
    },
    "SNDK": {
     "trap": 84.360325,
-    "protection": 66.433756,
-    "liquidation": 63.270244,
+    "protection": 66.43,
+    "liquidation": 63.27,
     "side": "LONG",
     "class": "equity"
    },
@@ -136,15 +136,15 @@
    },
    "HOOD": {
     "trap": 67.2897825,
-    "protection": 52.990704,
-    "liquidation": 50.467337,
+    "protection": 52.99,
+    "liquidation": 50.47,
     "side": "LONG",
     "class": "equity"
    },
    "ARB": {
     "trap": 0.11196987,
-    "protection": 0.088176,
-    "liquidation": 0.083977,
+    "protection": 0.0882,
+    "liquidation": 0.084,
     "side": "LONG",
     "class": "crypto"
    },
@@ -166,15 +166,8 @@
    },
    "NEAR": {
     "trap": 3.00857,
-    "protection": 2.369249,
-    "liquidation": 2.256428,
-    "side": "LONG",
-    "class": "unknown"
-   },
-   "PENGU": {
-    "trap": 0.00439837,
-    "protection": 0.0035,
-    "liquidation": 0.0033,
+    "protection": 2.37,
+    "liquidation": 2.26,
     "side": "LONG",
     "class": "unknown"
    },
@@ -188,8 +181,8 @@
    },
    "AVAX": {
     "trap": 6.50203425,
-    "protection": 5.120352,
-    "liquidation": 4.876526,
+    "protection": 5.12,
+    "liquidation": 4.88,
     "side": "LONG",
     "class": "unknown"
    },
@@ -210,15 +203,15 @@
    },
    "XAG": {
     "trap": 43.321285,
-    "protection": 34.115512,
-    "liquidation": 32.490964,
+    "protection": 34.12,
+    "liquidation": 32.49,
     "side": "LONG",
     "class": "commodity"
    },
    "NBIS": {
     "trap": 88.310175,
-    "protection": 69.544263,
-    "liquidation": 66.232631,
+    "protection": 69.54,
+    "liquidation": 66.23,
     "side": "LONG",
     "class": "unknown"
    },
@@ -232,15 +225,15 @@
    },
    "CRWV": {
     "trap": 43.177475,
-    "protection": 34.002261,
-    "liquidation": 32.383106,
+    "protection": 34.0,
+    "liquidation": 32.38,
     "side": "LONG",
     "class": "equity"
    },
    "CBRS": {
     "trap": 92.2157,
-    "protection": 72.619864,
-    "liquidation": 69.161775,
+    "protection": 72.62,
+    "liquidation": 69.16,
     "side": "LONG",
     "class": "unknown"
    }
@@ -251,8 +244,8 @@
    "band": "extreme_fear",
    "classification": "Extreme fear",
    "source": "cmc_keyed",
-   "update_time": "2026-11-28T02:53:10.030Z",
-   "fetched_at": 1795834848.139137,
+   "update_time": "2026-11-28T04:53:10.025Z",
+   "fetched_at": 1795842051.9307263,
    "via": "daemon_cache",
    "band_source": "daemon_committed",
    "long": {
@@ -269,5 +262,5 @@
    }
   }
  },
- "sig": "2IBUiDsb1iuFXBDxZ4SKoA8F-UXY4t7Ldfuc2lIngd5eCbcZoGVFaZ5DRwIzFjfV4yeNqQnlgFoqNPCPYjSvAg"
+ "sig": "3G0nUsklTsFcqDPqw_25XednjfXDOP3K2F9fYudRUZvw2LCA6fallDr-2tz3Nx77Zzh4f1g4fTdQB1nkhnFHAA"
 }
