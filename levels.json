@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 4,
-  "as_of": "2026-11-27T23:24:43Z",
+  "as_of": "2026-11-28T01:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -157,9 +157,9 @@
     "as_of": "2026-11-27T21:05:30Z"
    },
    "NEAR": {
-    "trap": 3.00425,
-    "protection": 2.37,
-    "liquidation": 2.25,
+    "trap": 2.93,
+    "protection": 2.31,
+    "liquidation": 2.2,
     "side": "LONG",
     "class": "unknown"
    },
@@ -200,9 +200,9 @@
     "class": "commodity"
    },
    "NBIS": {
-    "trap": 80.0904,
-    "protection": 63.07,
-    "liquidation": 60.07,
+    "trap": 84.16,
+    "protection": 66.28,
+    "liquidation": 63.12,
     "side": "LONG",
     "class": "unknown"
    },
@@ -231,12 +231,12 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952",
   "fng": {
-   "value": 9,
+   "value": 10,
    "band": "extreme_fear",
    "classification": "Extreme fear",
    "source": "cmc_keyed",
-   "update_time": "2026-11-27T22:53:10.026Z",
-   "fetched_at": 1795820448.9179854,
+   "update_time": "2026-11-28T00:53:10.020Z",
+   "fetched_at": 1795827647.8138993,
    "via": "daemon_cache",
    "band_source": "daemon_committed",
    "long": {
@@ -253,5 +253,5 @@
    }
   }
  },
- "sig": "W_QCIC4Z4o55zTPcTGVvuckF5nSllzeyVjMzTGxjvRV5GdDN61CrQGephBpvyXN3b9mKmyqNjyRE9jQNgcORBg"
+ "sig": "R67lpnbIQy8boo2r70jUZuUXbUUBB0kcNhw30TbcSjkvbbWuqiz3ZO32beqJPcbeSEGVIKlmXcgUN_5z48seBg"
 }
