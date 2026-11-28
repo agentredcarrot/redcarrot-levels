@@ -1,7 +1,7 @@
 {
  "payload": {
   "schema_version": 4,
-  "as_of": "2026-11-28T05:24:42Z",
+  "as_of": "2026-11-28T07:24:42Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
@@ -121,16 +121,9 @@
     "as_of": "2026-11-28T03:05:40Z"
    },
    "DOGE": {
-    "trap": 0.0568621,
-    "protection": 0.0448,
-    "liquidation": 0.0426,
-    "side": "LONG",
-    "class": "crypto"
-   },
-   "GRAM": {
-    "trap": 0.970885,
-    "protection": 0.7646,
-    "liquidation": 0.7282,
+    "trap": 0.0553,
+    "protection": 0.0435,
+    "liquidation": 0.0415,
     "side": "LONG",
     "class": "crypto"
    },
@@ -140,13 +133,6 @@
     "liquidation": 50.47,
     "side": "LONG",
     "class": "equity"
-   },
-   "ARB": {
-    "trap": 0.11196987,
-    "protection": 0.0882,
-    "liquidation": 0.084,
-    "side": "LONG",
-    "class": "crypto"
    },
    "PUMP": {
     "trap": 0.0025785,
@@ -164,13 +150,6 @@
     "class": "unknown",
     "as_of": "2026-11-28T03:05:40Z"
    },
-   "NEAR": {
-    "trap": 3.00857,
-    "protection": 2.37,
-    "liquidation": 2.26,
-    "side": "LONG",
-    "class": "unknown"
-   },
    "BNB": {
     "trap": 545.9659,
     "protection": 429.948146,
@@ -178,13 +157,6 @@
     "side": "LONG",
     "class": "unknown",
     "as_of": "2026-11-28T03:05:40Z"
-   },
-   "AVAX": {
-    "trap": 6.50203425,
-    "protection": 5.12,
-    "liquidation": 4.88,
-    "side": "LONG",
-    "class": "unknown"
    },
    "AAVE": {
     "trap": 92.03,
@@ -240,12 +212,12 @@
   },
   "admin_wallet": "0x1db0f5B8069c3C107eC20f3DD0efA64aFA79D952",
   "fng": {
-   "value": 10,
+   "value": 9,
    "band": "extreme_fear",
    "classification": "Extreme fear",
    "source": "cmc_keyed",
-   "update_time": "2026-11-28T04:53:10.025Z",
-   "fetched_at": 1795842051.9307263,
+   "update_time": "2026-11-28T06:53:10.024Z",
+   "fetched_at": 1795849247.9158742,
    "via": "daemon_cache",
    "band_source": "daemon_committed",
    "long": {
@@ -262,5 +234,5 @@
    }
   }
  },
- "sig": "3G0nUsklTsFcqDPqw_25XednjfXDOP3K2F9fYudRUZvw2LCA6fallDr-2tz3Nx77Zzh4f1g4fTdQB1nkhnFHAA"
+ "sig": "EtG4BFGu4w1EZM2IGK8CdnD69tJCgdwlYKCxWLAoamxfilpzxXEvfVHCMgteCh7yWyCdCwlatuB8JY0eXVY7DQ"
 }
