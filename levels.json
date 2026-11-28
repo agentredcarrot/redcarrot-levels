@@ -1,21 +1,13 @@
 {
  "payload": {
   "schema_version": 4,
-  "as_of": "2026-11-28T07:24:42Z",
+  "as_of": "2026-11-28T09:24:43Z",
   "interval_hours": 12,
   "levels": {
    "BTC": {
     "trap": 59447.4,
     "protection": 46814.8275,
     "liquidation": 44585.55,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-28T03:05:40Z"
-   },
-   "SOL": {
-    "trap": 71.0885,
-    "protection": 55.982194,
-    "liquidation": 53.316375,
     "side": "LONG",
     "class": "crypto",
     "as_of": "2026-11-28T03:05:40Z"
@@ -73,14 +65,6 @@
     "liquidation": 0.1025,
     "side": "LONG",
     "class": "crypto"
-   },
-   "ZEC": {
-    "trap": 736.5915,
-    "protection": 580.065806,
-    "liquidation": 552.443625,
-    "side": "LONG",
-    "class": "crypto",
-    "as_of": "2026-11-28T03:05:40Z"
    },
    "SNDK": {
     "trap": 84.360325,
@@ -170,8 +154,7 @@
     "protection": 20.266776,
     "liquidation": 19.301691,
     "side": "LONG",
-    "class": "unknown",
-    "as_of": "2026-11-28T03:05:40Z"
+    "class": "unknown"
    },
    "XAG": {
     "trap": 43.321285,
@@ -216,8 +199,8 @@
    "band": "extreme_fear",
    "classification": "Extreme fear",
    "source": "cmc_keyed",
-   "update_time": "2026-11-28T06:53:10.024Z",
-   "fetched_at": 1795849247.9158742,
+   "update_time": "2026-11-28T08:53:10.025Z",
+   "fetched_at": 1795856447.6535313,
    "via": "daemon_cache",
    "band_source": "daemon_committed",
    "long": {
@@ -234,5 +217,5 @@
    }
   }
  },
- "sig": "EtG4BFGu4w1EZM2IGK8CdnD69tJCgdwlYKCxWLAoamxfilpzxXEvfVHCMgteCh7yWyCdCwlatuB8JY0eXVY7DQ"
+ "sig": "tBnHCCGnhluZ9JkBKMfWSSWhQOCCFJp_Y5xcoV_d6mGFNrcA2X0XI6sf3PqULjppSjMU9Ref0T9zq5WOLSwTAQ"
 }
